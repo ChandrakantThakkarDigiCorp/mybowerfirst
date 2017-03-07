@@ -1,0 +1,21 @@
+{
+  "name": "mybowerfirst",
+  "version": "0.0.1",
+  "authors": [
+    "chandrakant Thakkar <chandrakant.thakkar@digi-corp.com>"
+  ],
+  "description": "this is first app in bower",
+  "main": "index.js",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
