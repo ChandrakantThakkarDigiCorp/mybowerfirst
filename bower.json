@@ -11,6 +11,10 @@
   ],
   "license": "MIT",
   "homepage": "",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ChandrakantThakkarDigiCorp/s3-nodejs-sample.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
