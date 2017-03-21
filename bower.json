@@ -16,10 +16,8 @@
   "url": "https://github.com/ChandrakantThakkarDigiCorp/s3-nodejs-sample.git"
   },
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+   "archive",
+  "templates",
+  "components/*/snippets/**"
   ]
 }
